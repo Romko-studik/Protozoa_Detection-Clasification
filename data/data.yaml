@@ -1,0 +1,49 @@
+names:
+- Amoeba
+- Arcella
+- Aspidisca
+- Chaetonotus
+- Chaetopira
+- Chilodonella
+- Cyclidium
+- Euglypha
+- Euplotes
+- Flagellates
+- Giardia
+- Microalgae
+- Nematode
+- Paramecium
+- Pediastrum_10
+- Pediastrum_1F0
+- Pediastrum_1T
+- Pediastrum_1TH
+- Pediastrum_75FI
+- Pediastrum_75FO
+- Pediastrum_75O
+- Pediastrum_75T
+- Pediastrum_75TH
+- Pediastrum_CF
+- Pediastrum_CFI
+- Pediastrum_CO
+- Pediastrum_CT
+- Pediastrum_CTH
+- Pristina
+- Rodbacteria
+- Rotatoria
+- Rotifer
+- Sphericalbacteria
+- Sprialbacteria
+- Stylonychia
+- Suctorida
+- Vorticella
+- Yeast
+nc: 38
+roboflow:
+  license: CC BY 4.0
+  project: protozoadataset
+  url: https://universe.roboflow.com/protozoadetectionj/protozoadataset/dataset/2
+  version: 2
+  workspace: protozoadetectionj
+test: ../test/images/
+train: ../train/images/
+val: ../valid/images/
